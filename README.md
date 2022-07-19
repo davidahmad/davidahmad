@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidahmad
-- 👀 I’m interested in automation using Python and PowerShell. I'm also enthusiastic about Android Development.
-- 💞️ I’m open to collaberating on Android projects.
+- 👀 I’m interested in cloud infrastructure automation I am also passionate about Web3 and Etherium smart contracts.
+- 💞️ I’m open to collaberating on all kinds of projects projects.
 - 📫 reach me via email - davidfahmad@gmail.com
 
 <!---
